@@ -12,6 +12,8 @@ module.exports = {
 
     'react/no-multi-comp': 'off',
 
+    'react/destructuring-assignment': 'off',
+
     'jsx-a11y/anchor-is-valid': 'off',
   },
 };
