@@ -1,6 +1,6 @@
 {
   "name": "@fadioit/eslint-config-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for eslint and prettier used in Fadio IT projects",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@fadioit/eslint-config": "^0.1.0",
+    "@fadioit/eslint-config": "^0.1.1",
     "eslint": "^4.19.1",
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-import": "^2.13.0",
