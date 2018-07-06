@@ -1,0 +1,15 @@
+{
+  "description": "Fadio IT's ESLint packages",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "eslint --cache packages/"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0",
+    "@fadioit/eslint-config": "^0.1.0"
+  }
+}
