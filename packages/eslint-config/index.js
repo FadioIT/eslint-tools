@@ -16,6 +16,8 @@ module.exports = {
       },
     ],
 
+    'arrow-parens': 'off',
+
     'func-names': 'off',
 
     'no-console': 'warn',
