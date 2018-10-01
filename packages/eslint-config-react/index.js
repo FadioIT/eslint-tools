@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@fadioit', 'airbnb', 'prettier/react'],
+  extends: ['airbnb', 'prettier/react', '@fadioit'],
   plugins: ['react'],
   rules: {
     'react/jsx-filename-extension': 'off',
